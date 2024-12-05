@@ -1,9 +1,6 @@
 # Compiled class files
 *.class
 
-# Generated JAR files
-*.jar
-
 # Log and temporary files
 *.log
 *.tmp
